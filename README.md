@@ -39,8 +39,7 @@
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=windows&perline=3)](https://skillicons.dev)
 
-<h2 style="color: #1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
- ;">🚀 Habilidades Gerais</h2>
+<h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1>></h2>
 
 [![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,mint,git,github,windows,docker,arch&perline=10)](https://skillicons.dev)
  
