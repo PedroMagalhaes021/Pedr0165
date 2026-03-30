@@ -16,6 +16,9 @@
   <a href="www.linkedin.com/in/pedro-magalhães-2a549a345">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-PedroMagalhaes-ff735a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF0000" style="border-radius: 0px;"/>
   </a>
+ <a href="https://instagram.com/pedromagalhaes.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
+  
 </div>
 
 
