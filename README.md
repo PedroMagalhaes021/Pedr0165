@@ -25,7 +25,7 @@
 
 <h2 style="color: #1d4b4b8;"> 🛠️ Linguagens e Tecnologias</h1></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp&perline=10)](https://skillicons.dev)
 
 
 <h2 style="color:#1d4b4b8;"> 💻 IDEs e Editores </h1></h2>
