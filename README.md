@@ -34,11 +34,11 @@
 
 <h2 style="color: #a855f7;">🖥️ Sistemas Operacionais</h2> 
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linux&perline=10)](https://skillicons.dev)
+[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,perline=10)](https://skillicons.dev)
 
 <h2 style="color: #a855f7;">🚀 Habilidades Gerais</h2>
 
-[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,linux,mint,git,github,windows,docker,arch&perline=10)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,mint,git,github,windows,docker,arch&perline=10)](https://skillicons.dev)
  
 <br>
 
@@ -46,9 +46,9 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=KauaRios&theme=jolly&hide_border=false&card_width=100" width="300px">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=KauaRios&theme=jolly&hide_border=false" width="354px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaRios&theme=jolly&layout=compact" width="255px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedr0165s&theme=jolly&hide_border=false&card_width=100" width="300px">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Pedro0165&theme=jolly&hide_border=false" width="354px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro0165&theme=jolly&layout=compact" width="255px">
   </p>
 </div>
 
