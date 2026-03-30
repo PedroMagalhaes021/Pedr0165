@@ -1,7 +1,7 @@
-<h1 style="color: #a855f7;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
+<h1 style="color: #6d8ce8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
  
-<h2 style="color: #a855f7;"> Olá 😊, me chamo Pedro, tenho 19 anos </h2>
-<h3 style="color: #a855f7;"> Cursando Ciências da Computação 3/8 </h3>
+<h2 style="color: #6d8ce8;"> Olá 😊, me chamo Pedro, tenho 19 anos </h2>
+<h3 style="color: #6d8ce8;"> Cursando Ciências da Computação 3/8 </h3>
 
 <div align="center">
   <img src="./src/brabo.gif" alt="Snake Animation" width="100%" style="border-radius: 0px;">
