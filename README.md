@@ -40,8 +40,6 @@
  
 <br>
 
-<h2 style="color: #1d4b4b8;">📊 Estatísticas </h1></h2>
-
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Pedr0165s&theme=jolly&hide_border=false&card_width=100" width="300px">
