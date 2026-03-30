@@ -38,7 +38,7 @@
 
 <h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1></h2>
 
-[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,mint,git,github,windows,docker,arch&perline=10)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,git,github,windows&perline=10)](https://skillicons.dev)
  
 <br>
 
