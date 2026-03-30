@@ -14,7 +14,7 @@
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pedr0165?color=8c8c8ca&style=for-the-badge&labelColor=000000a&logo=star&label=estrelas" style="border-radius: 0px;"/>
   </a>
   <a href="https://github.com/Pedr0165?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Pedr0165?color=FF0000&labelColor=FF0000&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" style="border-radius: 0px;"/>
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Pedr0165?color=000000&labelColor=8c8c8c&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" style="border-radius: 0px;"/>
   </a>
   <a href="www.linkedin.com/in/pedro-magalhães-2a549a345">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-PedroMagalhaes-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF0000" style="border-radius: 0px;"/>
