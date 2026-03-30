@@ -23,30 +23,26 @@
 
 <br>
 
-<h2 style="color: #1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
- ;">🛠️ Linguagens e Tecnologias</h2>
+<h2 style="color: #1d4b4b8;"> 🛠️ Linguagens e Tecnologias</h1></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp&perline=10)](https://skillicons.dev)
 
 
-<h2 style="color:#1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
- ;">💻 IDEs e Editores</h2>
+<h2 style="color:#1d4b4b8;"> 💻 IDEs e Editores </h1></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=10)](https://skillicons.dev)
 
-<h2 style="color: #1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
- ;">🖥️ Sistemas Operacionais</h2> 
+<h2 style="color: #1d4b4b8;"> 🖥️ Sistemas Operacionais </h1></h2> 
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=windows&perline=3)](https://skillicons.dev)
 
-<h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1>></h2>
+<h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1></h2>
 
 [![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,mint,git,github,windows,docker,arch&perline=10)](https://skillicons.dev)
  
 <br>
 
-<h2 style="color: #1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
- ;">📊 Estatísticas</h2>
+<h2 style="color: #1d4b4b8;">📊 Estatísticas </h1></h2>
 
 <div align="center">
   <p>
