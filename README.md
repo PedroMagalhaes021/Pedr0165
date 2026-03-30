@@ -4,7 +4,10 @@
 <h3 style="color: #000000;"> Cursando Ciências da Computação 3/8 </h3>
 
 <br>
-
+<div>
+ <a href ="https://beacons.ai/pedr0165">
+  
+</div>
 <div align="center"> 
   <a href="https://github.com/Pedr0165?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pedr0165?color=ff735a&style=for-the-badge&labelColor=FF0000&logo=star&label=estrelas" style="border-radius: 0px;"/>
