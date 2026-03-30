@@ -34,7 +34,7 @@
 
 <h2 style="color: #a855f7;">🖥️ Sistemas Operacionais</h2> 
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,perline=10)](https://skillicons.dev)
+[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows,mint,arch,linux&perline=10)](https://skillicons.dev)
 
 <h2 style="color: #a855f7;">🚀 Habilidades Gerais</h2>
 
