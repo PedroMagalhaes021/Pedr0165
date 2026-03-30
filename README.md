@@ -38,17 +38,6 @@
 
 [![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,c,git,github,windows&perline=10)](https://skillicons.dev)
  
-<br>
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Pedr0165s&theme=jolly&hide_border=false&card_width=100" width="300px">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Pedro0165&theme=jolly&hide_border=false" width="354px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro0165&theme=jolly&layout=compact" width="255px">
-  </p>
-</div>
-
-<br>
 
 
 
