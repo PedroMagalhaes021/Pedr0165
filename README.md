@@ -3,10 +3,6 @@
 <h2 style="color: #000000;"> Olá!, me chamo Pedro, tenho 19 anos </h2>
 <h3 style="color: #000000;"> Cursando Ciências da Computação 3/8 </h3>
 
-<div align="center">
-  <img src="./src/brabo.gif" alt="Snake Animation" width="100%" style="border-radius: 0px;">
-</div>
-
 <br>
 
 <div align="center"> 
