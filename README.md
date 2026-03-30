@@ -1,6 +1,6 @@
-<h1 style="color: 1d4b4b8;"> 🖥️👨🏻‍🦱 PedroMagalhães </h1>
+<h1 style="color: 1d4b4b8;"> 🖥️👨🏻‍🦱 Pedro Magalhães </h1>
  
-<h2 style="color: 1d4b4b8;"> Olá 😊, me chamo Pedro, tenho 19 anos </h2>
+<h2 style="color: 1d4b4b8;"> Olá!, me chamo Pedro, tenho 19 anos </h2>
 <h3 style="color: 1d4b4b8;"> Cursando Ciências da Computação 3/8 </h3>
 
 <div align="center">
