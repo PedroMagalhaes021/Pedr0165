@@ -30,7 +30,7 @@
 
 <h2 style="color: #1d4b4b8;"> 🛠️ Linguagens e Tecnologias</h1></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,php,c&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,c&perline=10)](https://skillicons.dev)
 
 
 <h2 style="color:#1d4b4b8;"> 💻 IDEs e Editores </h1></h2>
@@ -43,7 +43,7 @@
 
 <h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1></h2>
 
-[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,linux,c,git,github,windows&perline=10)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=js,python,html,css,linux,c,git,github,windows&perline=10)](https://skillicons.dev)
 
  <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedr0165&theme=tokyonight"/>
