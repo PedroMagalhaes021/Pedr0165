@@ -1,4 +1,4 @@
-<h1 style="color: #000000;"> 🖥️👨🏻‍🦱 Pedro Magalhães </h1>
+<h1 style="color: #000000;"> 🖥️ Pedro Magalhães </h1>
  
 <h2 style="color: #000000;"> Olá!, me chamo Pedro, tenho 19 anos </h2>
 <h3 style="color: #000000;"> Cursando Ciências da Computação 3/8 </h3>
@@ -23,7 +23,6 @@
  </a>
   
 </div>
-
 
 <br>
 
