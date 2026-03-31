@@ -37,12 +37,21 @@
 
 <h2 style="color: #1d4b4b8;"> 🖥️ Sistemas Operacionais </h1></h2> 
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=windows&perline=3)](https://skillicons.dev)
+[![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,arch,windows&perline=3)](https://skillicons.dev)
 
 <h2 style="color: #1d4b4b8;">🚀 Habilidades Gerais </h1></h2>
 
-[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,c,git,github,windows&perline=10)](https://skillicons.dev)
- 
+[![Habilidades](https://skillicons.dev/icons?i=js,python,php,html,css,linux,c,git,github,windows&perline=10)](https://skillicons.dev)
+
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedr0165&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedr0165&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedr0165&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedr0165&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pedr0165&theme=tokyonight&utcOffset=-3"/>
+</div>
 
 
 
