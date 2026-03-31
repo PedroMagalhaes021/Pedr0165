@@ -17,7 +17,7 @@
     <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Pedr0165?color=ff735a&labelColor=FF0000&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" style="border-radius: 0px;"/>
   </a>
 <a href="www.linkedin.com/in/pedro-magalhães-2a549a345">
-    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-Pedr0165?color=ff735a&labelColor=FF0000&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" style="border-radius: 0px;"/>
+    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-Pedro%20Magalhaes-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF0000" style="border-radius: 0px;"/>
   </a>
  <a href="https://instagram.com/pedromagalhaes.s" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
