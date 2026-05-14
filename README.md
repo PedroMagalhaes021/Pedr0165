@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.imgur.com/dBaSVpY.gif" width="100%" alt="Cyberpunk Setup" />
+</div>
+
 <h1 align="center" style="color: #a855f7;"> 🖥️ Pedro Magalhães </h1>
 
 <div align="center">
@@ -68,6 +72,11 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedr0165&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Pedr0165&locale=pt_BR&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
 | :-: | :-: |
 
+---
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeHliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF Celebration" />
+</p>
 
 ---
 
@@ -78,5 +87,5 @@
 <br>
 
 <div align="center">
-  <sub>Made by <a href="https://github.com/Pedr0165">@Pedro</a></sub>
+  <sub>Made with 💜 by <a href="https://github.com/Pedr0165">@Pedro</a></sub>
 </div>
