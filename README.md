@@ -62,22 +62,17 @@
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedr0165&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0165&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages"/>
-</div>
+| ![Pedro Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedr0165&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedr0165&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedr0165&theme=midnight_purple) |
+| :-: | :-: | :-: |
 
-<br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedr0165&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Pedr0165&locale=pt_BR&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedr0165&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=a855f7&dates=c9d1d9" alt="GitHub Streak"/>
-</div>
+---
 
-<br>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pedr0165&theme=radical&hide_border=true&bg_color=0d1117&line=a855f7&point=7C3AED&area_color=1a1b27&title_color=a855f7&area=true" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeHliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF Celebration" />
+</p>
 
 ---
 
@@ -88,5 +83,5 @@
 <br>
 
 <div align="center">
-  <sub>Made with 💜 by <a href="https://github.com/Pedr0165">@Pedr0165</a></sub>
+  <sub>Made with 💜 by <a href="https://github.com/Pedr0165">@Pedro</a></sub>
 </div>
