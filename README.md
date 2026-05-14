@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/dBaSVpY.gif" width="100%" alt="Cyberpunk Setup" />
+  <img src="https://i.pinimg.com/736x/c9/65/42/c96542b785011d5b63b474432b0bc42a.jpg" width="100%" alt="Cyberpunk Setup" />
 </div>
 
 <h1 align="center" style="color: #a855f7;"> 🖥️ Pedro Magalhães </h1>
