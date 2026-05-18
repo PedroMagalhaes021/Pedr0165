@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Languages and Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,py,js,c&perline=10" alt="Linguagens"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 💻 IDEs e Editores
+## 💻 IDEs and Editors
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=10" alt="IDEs"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🖥️ Sistemas Operacionais
+## 🖥️ Operating Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10" alt="SO"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Habilidades Gerais
+## 🚀 General Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,linux,c,git,github,windows&perline=10" alt="Habilidades"/>
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statics
 
 | ![Pedro Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedr0165&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedr0165&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedr0165&theme=midnight_purple) |
 | :-: | :-: | :-: |
