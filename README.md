@@ -1,84 +1,30 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/c9/65/42/c96542b785011d5b63b474432b0bc42a.jpg" width="100%" alt="Cyberpunk Setup" />
-</div>
+<div align="center"> <img src="./assets/banner.png" alt="Banner" width="100%"/> <br/> <h1>Olá, eu sou Pedro Cordeiro de Jesus Veras Magalhães 👋</h1> <h3>🎓 Ciência da Computação &nbsp;|&nbsp; 🚀 Futuro Full Stack Developer</h3> <br/> <a href="https://www.linkedin.com/in/pedrocordeirojvm/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:pedrodejesusmagalhaes@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/PedroMagalhaes021" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <br/>
+💻 Sobre mim
 
-<h1 align="center" style="color: #a855f7;"> 🖥️ Pedro Magalhães </h1>
+Sou estudante de Ciência da Computação, apaixonado por tecnologia e em constante evolução rumo a me tornar um desenvolvedor Full Stack. Gosto de resolver problemas com lógica, aprender novas ferramentas e construir projetos que realmente funcionem — do backend à interface.
 
-<div align="center">
-  <h2 style="color: #000000;"> Hello,My name is Pedro.I am 19 Year Old 👋 </h2>
-  <h3 style="color: #666;"> 📚 studying Computer Science (3/8) </h3>
-</div>
+🔭 Atualmente aprofundando conhecimentos em desenvolvimento Full Stack
+🌱 Estudando estruturas de dados, algoritmos e boas práticas de engenharia de software
+💬 Pergunte-me sobre C, Python, JavaScript ou Java
+📫 Contato: pedrodejesusmagalhaes@gmail.com
+<br/>
+🛠️ Tecnologias & Ferramentas
+<div align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> </div> <br/>
+📊 Estatísticas do GitHub
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroMagalhaes021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagalhaes021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMagalhaes021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMagalhaes021&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/> </div> <br/>
+🏆 Troféus
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PedroMagalhaes021&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/> </div> <br/>
+📌 Projetos em destaque
 
-<br>
+Substitua abaixo pelos repositórios que você quer destacar (pin no perfil funciona também, mas esses cards ficam bonitos aqui):
 
-<div align="center"> 
-  <a href="https://github.com/Pedr0165?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pedr0165?color=a855f7&style=for-the-badge&labelColor=7C3AED&logo=star&label=STARS"/>
-  </a>
-  <a href="https://github.com/Pedr0165?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Pedr0165?color=a855f7&labelColor=7C3AED&style=for-the-badge&logo=github&label=SEGUIDORES"/>
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/pedro-magalhães-2a549a345/">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Magalhaes-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED"/>
-  </a>
-  <a href="https://instagram.com/pedromagalhaes.s" target="_blank">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://beacons.ai/pedr0165" target="_blank">
-    <img alt="Beacons" title="Beacons" src="https://img.shields.io/badge/Beacons-7C3AED?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMagalhaes021&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" alt="Repo 1"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMagalhaes021&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" alt="Repo 2"/> </div> <br/> <div align="center">
+🌐 Vamos nos conectar!
 
----
+<a href="https://www.linkedin.com/in/pedrocordeirojvm/" target="_blank">LinkedIn</a>  •  <a href="mailto:pedrodejesusmagalhaes@gmail.com">E-mail</a>  •  <a href="https://github.com/PedroMagalhaes021" target="_blank">GitHub</a>
 
-## 🛠️ Languages and Technologies
+<br/><br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,py,js,c&perline=10" alt="Linguagens"/>
-</div>
+Mostrar Imagem
 
----
-
-## 💻 IDEs and Editors
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=10" alt="IDEs"/>
-</div>
-
----
-
-## 🖥️ Operating Systems
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10" alt="SO"/>
-</div>
-
----
-
-## 🚀 General Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,linux,c,git,github,windows&perline=10" alt="Habilidades"/>
-</div>
-
----
-
-## 📊 GitHub Statics
-
-| ![Pedro Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedr0165&mode=daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedr0165&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedr0165&theme=midnight_purple) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedr0165&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Pedr0165&locale=pt_BR&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
-| :-: | :-: |
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20e%20Crescendo-a855f7?style=for-the-badge&labelColor=7C3AED"/>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Made by <a href="https://github.com/Pedr0165">@Pedro</a></sub>
 </div>
